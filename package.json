@@ -19,7 +19,6 @@
     "test:ui": "vitest --ui"
   },
   "devDependencies": {
-    "animejs": "^3.2.2",
     "@playwright/test": "^1.44.0",
     "@sveltejs/adapter-node": "^5.0.1",
     "@sveltejs/kit": "^2.5.9",
